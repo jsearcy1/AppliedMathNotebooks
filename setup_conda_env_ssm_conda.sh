@@ -23,3 +23,4 @@ pip install -e .
 
 conda deactivate
 echo 'Done with setup'
+
